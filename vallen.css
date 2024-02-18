@@ -1,0 +1,59 @@
+.providers, .payers, .Amwell_Converge_Platform, .Behavioral_Health {
+    background-color: #1A3E67BF;
+    width: 150px; 
+    height: auto;
+    color: white;
+    padding: 20px 40px 20px 20px;
+    border-radius: 8px/9.33%;
+    border-radius: 10px;
+    margin-top : 300px;
+    margin-left: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: left;
+    flex-wrap: wrap;
+    flex-direction: column;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    transition: 0.3s;
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+    background: rgba(0, 0, 255, 0.301); 
+    border-radius: 10px;
+    backdrop-filter: blur(5px); 
+    box-shadow: 0 4px 6px rgba(246, 7, 7, 0.1);
+}
+
+.main {
+    display: flex;
+    flex-wrap: nowrap;
+    margin-top: 20px;
+}
+
+.masthead__content {
+    /* padding-top: 60px;
+    padding-left: 50px;
+    white-space: nowrap;
+    margin-top: 20px;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    margin: 10px;*/
+    height: 200px;
+    /*
+    background-color: rgba(128, 128, 128, 0.327);
+    border-radius: 25px; */
+
+    background: rgba(0, 0, 255, 0.301); 
+    border-radius: 10px;
+    padding: 20px;
+    backdrop-filter: blur(10px); 
+    box-shadow: 0 4px 6px rgba(246, 7, 7, 0.1); 
+}
+
+
+
+
